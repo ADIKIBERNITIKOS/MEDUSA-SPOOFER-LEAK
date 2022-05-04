@@ -1,0 +1,6 @@
+C:\Users\Constandinos\Documents\MedusaUnpacked\Loader\obj\Debug\Loader.csproj.AssemblyReference.cache
+C:\Users\Constandinos\Documents\MedusaUnpacked\Loader\obj\Debug\Loader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Constandinos\Documents\MedusaUnpacked\Loader\obj\Debug\Loader.dashboard.resources
+C:\Users\Constandinos\Documents\MedusaUnpacked\Loader\obj\Debug\KeyAuth.Login.resources
+C:\Users\Constandinos\Documents\MedusaUnpacked\Loader\obj\Debug\Loader.csproj.GenerateResource.cache
+C:\Users\Constandinos\Documents\MedusaUnpacked\Loader\obj\Debug\Loader.csproj.CoreCompileInputs.cache
